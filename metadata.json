@@ -1,0 +1,10 @@
+{
+  "name": "Remix جري المشاية - Treadmill \u0026 Weight Loss Coach",
+  "description": "تطبيق متكامل لتنظيم مواعيد الجري على المشاية، تخصيص السرعات المفضلة، متابعة خسارة الوزن بدقة ورسوم بيانية، مع نظام تذكيرات وتنبيهات أسبوعية وشهرية وفوائد رياضية تحفيزية.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
